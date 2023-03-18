@@ -1,12 +1,13 @@
 # KichwaYachayApp
 
-###### Authors: Wilter Menoscal,
+###### Authors: 
+         Wilter Menoscal,
          Christopher Almachi,
          Ricardo Farinango,
          Emilio Ibañez and
          Anthony Salazar
     
-This folder contains all the information about the development of the Kichwa Yachay application.
+## This folder contains all the information about the development of the Kichwa Yachay application.
 
 Code have upload in the next link:
 
@@ -16,7 +17,7 @@ The connection with data is in PHP basedata, we have differents codes in order t
 
 Our database is upload in this github, we use Appserv in order to create our server in our machine.
 
-**Implementation**
+###### Implementation
 
 First of all, We have to create our app server in order to implemented our services, then to do the connection between the services and database,
 We must to changes the URLs in our project, in order to the App have connection with the services and then with the database.
