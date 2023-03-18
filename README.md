@@ -24,7 +24,7 @@ We must to changes the URLs in our project, in order to the App have connection 
 
 App-> services-> database.
 
-Lastly, if You want to know how to works our app, we have a certain documents called [Code Explenation](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/code%20explanation.pdf).
+Lastly, if You want to know how to works our app, we have a certain documents called [Code Explanation](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/code%20explanation.pdf).
 
 ## In the [Documentation section](https://github.com/ChrisAlmachi/KichwaYachayApp/tree/main/Documentation)  you will find the following:
 
