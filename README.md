@@ -26,3 +26,7 @@ Lastly, if You want to know how to works our app, we have a certain documents ca
 
 In the [Documentation section](https://github.com/ChrisAlmachi/KichwaYachayApp/tree/main/Documentation)  you will find the following:
 
+# The largest heading
+## The second largest heading
+###### The smallest heading
+
