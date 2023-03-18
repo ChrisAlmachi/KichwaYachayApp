@@ -28,8 +28,8 @@ Lastly, if You want to know how to works our app, we have a certain documents ca
 
 ## In the [Documentation section](https://github.com/ChrisAlmachi/KichwaYachayApp/tree/main/Documentation)  you will find the following:
 
-[Charter](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/Charter%20Kichwa%20Yachay.pdf)
-[Class Diagram](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/Class%20diagram.pdf)
-[Functional and Non Functional Requirements](https://github.com/ChrisAlmachi/KichwaYachayApp/tree/main/Documentation)
-[Sequence and State Diagram](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/System%20Modeling%20-%20Sequence%20and%20states%20diagramsTarea.pdf)
-[Use Cases Diagram](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/System%20Modeling.pdf)
+1. [Charter](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/Charter%20Kichwa%20Yachay.pdf)
+2. [Class Diagram](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/Class%20diagram.pdf)
+3. [Functional and Non Functional Requirements](https://github.com/ChrisAlmachi/KichwaYachayApp/tree/main/Documentation)
+4. [Sequence and State Diagram](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/System%20Modeling%20-%20Sequence%20and%20states%20diagramsTarea.pdf)
+5. [Use Cases Diagram](https://github.com/ChrisAlmachi/KichwaYachayApp/blob/main/Documentation/System%20Modeling.pdf)
