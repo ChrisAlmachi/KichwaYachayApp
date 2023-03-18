@@ -1,8 +1,8 @@
-# KichwaYachayApp
-Authors: Wilter Menoscal
-         Christopher Almachi
-         Ricardo Farinango
-         Emilio Ibañez
+**KichwaYachayApp**
+Authors: Wilter Menoscal,
+         Christopher Almachi,
+         Ricardo Farinango,
+         Emilio Ibañez and
          Anthony Salazar
     
 This folder contains all the information about the development of the Kichwa Yachay application.
@@ -23,3 +23,6 @@ We must to changes the URLs in our project, in order to the App have connection 
 App-> services-> database.
 
 Lastly, if You want to know how to works our app, we have a certain documents called "Code explanation".
+
+In the [Documentation section](https://pages.github.com/)  you will find the following:
+This site was built using [GitHub Pages](https://github.com/ChrisAlmachi/KichwaYachayApp/tree/main/Documentation).
