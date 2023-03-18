@@ -1,6 +1,6 @@
 # KichwaYachayApp
 
-######Authors: Wilter Menoscal,
+###### Authors: Wilter Menoscal,
          Christopher Almachi,
          Ricardo Farinango,
          Emilio Ibañez and
